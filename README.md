@@ -1,3 +1,5 @@
+<p align="center"><img align="center" width="250" src="golua.png"></p><br/>
+
 WARNING! Please expect breaking changes and unstable APIs. Most of them are currently at an early, experimental stage.
 
 # Contributing
